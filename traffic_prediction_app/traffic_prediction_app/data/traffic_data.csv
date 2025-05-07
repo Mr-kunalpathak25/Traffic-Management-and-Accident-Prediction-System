@@ -1,0 +1,55 @@
+Location,City,State,Traffic Volume
+Downtown,New York,New York,2500
+Uptown,New York,New York,1800
+Central,Los Angeles,California,2200
+Suburban,Los Angeles,California,1300
+Downtown,Chicago,Illinois,2100
+Uptown,Chicago,Illinois,1600
+Eastside,San Francisco,California,2400
+Westside,San Francisco,California,2100
+Northend,Boston,Massachusetts,2000
+Southend,Boston,Massachusetts,800
+Downtown,Miami,Florida,250000
+Uptown,Miami,Florida,1900
+Central,Dallas,Texas,2300
+Suburban,Dallas,Texas,1500
+Downtown,Seattle,Washington,220
+Uptown,Seattle,Washington,1700
+Eastside,Denver,Colorado,800
+Westside,Denver,Colorado,2000
+Northend,Portland,Oregon,2100
+Southend,Portland,Oregon,1600
+Downtown,Atlanta,Georgia,2600
+Uptown,Atlanta,Georgia,1800
+Central,Austin,Texas,5000
+Suburban,Austin,Texas,1400
+Downtown,San Diego,California,2400
+Uptown,San Diego,California,1900
+Central,Houston,Texas,2200
+Suburban,Houston,Texas,1500
+Downtown,Las Vegas,Nevada,2300
+Uptown,Las Vegas,Nevada,1600
+Eastside,Chicago,Illinois,2500
+Westside,Chicago,Illinois,1800
+Northend,Miami,Florida,2000
+Southend,Miami,Florida,1700
+Downtown,Orlando,Florida,2200
+Uptown,Orlando,Florida,1500
+Central,San Jose,California,2400
+Suburban,San Jose,California,1800
+Downtown,Phoenix,Arizona,2300
+Uptown,Phoenix,Arizona,1700
+Eastside,Boston,Massachusetts,2100
+Westside,Boston,Massachusetts,1900
+Northend,San Francisco,California,2200
+Southend,San Francisco,California,1600
+Downtown,Indianapolis,Indiana,2000
+Uptown,Indianapolis,Indiana,1500
+Central,Columbus,Ohio,2300
+Suburban,Columbus,Ohio,1800
+Downtown,Minneapolis,Minnesota,2100
+Uptown,Minneapolis,Minnesota,1600
+Central,Detroit,Michigan,2400
+Suburban,Detroit,Michigan,1300
+Downtown,Washington,DC,2500
+Uptown,Washington,DC,1800
